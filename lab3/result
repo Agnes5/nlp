@@ -1,0 +1,9 @@
+30 słów, których nie ma w słowniku a występują najczęściej:
+[('margin', 1111), ('późn', 1080), ('family', 543), ('text', 531), ('mso', 448), ('bottom', 399), ('face', 327), ('panose', 326), ('serif', 325), ('gmo', 298), ('times', 296), ('iv', 272), ('sa', 266), ('name', 254), ('size', 248), ('left', 233), ('right', 233), ('sww', 227), ('skw', 196), ('ex', 169), ('height', 168), ('line', 168), ('ike', 162), ('vi', 154), ('indent', 121), ('remediacji', 120), ('vii', 111), ('ure', 103), ('uke', 97), ('kn', 95)]
+
+30 słów, których nie ma w słowniku a wystąpiły 3 razy:
+['terytorial', 'hydrologicznometeorologicznych', 'naukowobadawczej', 'xxxvi', 'wodnobłotnych', 'cobrpib', 'morpak', 'sativa', 'chloro', 'agaricus', 'meslin', 'asistent', 'medical', 'oszczędnościowokredytowych', 'pra', 'sce', 'hagera', 'wymienio', 'zasiedleń', 'ności', 'publicz', 'rytorialnego', 'szczegól', 'trzeżeniem', 'ubezpiecze', 'zacją', 'zania', 'zas', 'świad', 'żetowych']
+
+Poprawione słowa z listy wyżej:
+['terytorialny', 'agrometeorologiczny', 'badawczy', 'taxi', 'wodnoprawny', 'obręb', 'mora', 'samica', 'chlor', 'awaria', 'berlin', 'asystent', 'medal', 'oszczędnościowy', 'gra', 'ce', 'haga', 'wymienić', 'zasiedlić', 'kości', 'publiczny', 'terytorialny', 'szczegół', 'ostrzeżenie', 'ubezpieczyć', 'zająć', 'zanim', 'za', 'świat', 'żerowy']
+
