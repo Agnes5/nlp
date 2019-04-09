@@ -1,0 +1,4 @@
+Wnioski:
+LLR lepiej działa dla tego problemu niż pmi.
+W przypadku LLR w bigramach z dużym współczynnikiem znajdują się pary słów ze spójnikami (np. 'do', 'się'), można by takich bigramów nie brać pod uwagę.
+Ciężko określić konkretny próg od którego bigramy nie mają sensu.
