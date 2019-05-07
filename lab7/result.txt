@@ -1,0 +1,50 @@
+3. Using the downloaded model find the most similar word or expressions for the following expressions:
+sąd wysoki
+    [('niski::adj', 0.802047848701477)]
+trybunał konstytucyjny
+    [('władza_sądownicza::noun', 0.8395407795906067)]
+kodeks cywilny
+    [('ne#Kodeksu_cywilnego::noun', 0.9549584984779358)]
+kpk
+    [('ne#Kodeksu_postępowania_karnego::noun', 0.8661121129989624)]
+sąd rejonowy
+    [('sąd_okręgowy::noun', 0.8236082792282104)]
+szkoda
+    [('wyrządzić::verb', 0.7564012408256531)]
+wypadek
+    [('przypadek::noun', 0.8552334308624268)]
+kolizja
+    [('kolizja_drogowa::noun', 0.8072466254234314)]
+szkoda majątkowy
+    [('wyrządzić::noun', 0.8379961252212524)]
+nieszczęście
+    [('niebezpieczeństwo::noun', 0.7715556025505066)]
+rozwód
+    [('małżeństwo::noun', 0.8230220079421997)]
+
+4. Find the result of the following equations (5 top results):
+sąd wysoki - kpc + konstytucja
+    [('rząd::noun', 0.7304975986480713),
+     ('niski::adj', 0.7043128609657288),
+     ('władza::noun', 0.6805160045623779),
+     ('urząd::noun', 0.6599118709564209),
+     ('stanowisko::noun', 0.6552887558937073)]
+    
+pasażer - mężczyzna + kobieta
+    [('pasażer::noun', 0.9536111950874329),
+     ('podróżny::noun', 0.84157395362854),
+     ('współpasażer::noun', 0.7920055985450745),
+     ('podróżujący::noun', 0.7550979852676392),
+     ('kierowca::noun', 0.744685709476471)]    
+    
+samochód - droga + rzeka
+    [('motorówka::noun', 0.7439930438995361),
+     ('jezioro::noun', 0.7345262765884399),
+     ('Łódź::noun', 0.7254728674888611),
+     ('ne#Helensburgha::noun', 0.7246426939964294),
+     ('ne#East_River::noun', 0.7199317812919617)]
+
+    
+
+5. Using the t-SNE algorithm comput the projection of the random 1000 words with the following words highlighted (assuming they are available):
+szkoda, strata, uszczerbek, szkoda majątkowy, uszczerbek na zdrowie, krzywda, niesprawiedliwość, nieszczęście
